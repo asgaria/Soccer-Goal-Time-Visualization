@@ -5,7 +5,7 @@ I and started getting curious how goals were distributed during the game. Essent
 
 Here's how the project broke down: 
 * Take every goal scored in the English Premiere League between 2012-2019 and the minute interval it was scored during
-..* Minute intervals were: 1-15, 26-30, 30-45, 45-60, 61-75, 76 - 90
+    * Minute intervals were: 1-15, 26-30, 30-45, 45-60, 61-75, 76 - 90
 * Export that data into a spreadsheet 
 * Read the spreadsheet with a Python script running Pandas, make the data all nice
 * Feed the data into a matplotlib visualization that visually shows when the most goals are being scored
