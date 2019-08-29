@@ -4,7 +4,7 @@
 I and started getting curious how goals were distributed during the game. Essentially, I thought of this as a "If I'm watching soccer, what time periods do I absolutely have to put my phone down and watch the game" guide.
 
 Here's how the project broke down: 
-* Take every goal scored in the English Premiere League between 2012-2019 and the minute interval it was scored during
+* Take every goal scored in the English Premiere League in the last 7 years and the minute interval it was scored during
     * Minute intervals were: 1-15, 26-30, 30-45, 45-60+, 61-75, 76 - 90+
 * Export that data into a spreadsheet 
 * Read the spreadsheet with a Python script running Pandas, make the data all nice
