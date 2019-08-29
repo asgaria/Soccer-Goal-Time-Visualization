@@ -19,6 +19,7 @@ From the data, it clearly shows that the most goals are scored during the last i
 * One issue was only getting to use the last 7 years worth of data. I would've loved to get more data to experiment with.
 * The 31-45 and 76-90 intervals also account for stoppage time, which absolutely pads the data in their favor. The EPL is notorious for stoppage time goals. Apparently, 6.3% of EPL goals in the 2016-17 season were made during second half stoppage time (via [ESPN](http://www.espn.com/soccer/blog/tactics-and-analysis/67/post/3170967/why-premier-league-has-more-stoppage-time-goals-than-other-top-leagues)). EPL games have an average 8 minutes of stoppage time per game. That's wild. 
 * If I could do this project over again, I wish I could get the exact time stamp for each goal and do a visualization by minute instead of time intervals. It would greatly help in separating regulation and stoppage time numbers for a clearer picture of what's going on. 
+* Side note: From a design standpoint, I really did not like the default colors matplotlib assigned for each section of the pie chart. They were super dark and made the chart look like a mess. After reading some design blogs, I learned that lighter colors that compliment each other are the way to go for a more pleasing pie chart. Good to know. 
 ## Built with:
 * Python
 * matplotlib
