@@ -1,7 +1,7 @@
 # Soccer Goal Time Visualization
 
 ## Project Description
-I and started getting curious how goals were distributed during the game. Essentially, I thought of this as a "If I'm watching soccer, what time periods do I absolutely have to put my phone down and watch the game" guide.
+I started getting curious how goals were distributed during the game. Essentially, I thought of this as a "If I'm watching soccer, what time periods do I absolutely have to put my phone down and watch the game" guide.
 
 Here's how the project broke down: 
 * Take every goal scored in the English Premiere League in the last 7 years and the minute interval it was scored during
